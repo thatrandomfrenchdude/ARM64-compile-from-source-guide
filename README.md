@@ -3,8 +3,6 @@
 
 ## 1. Prerequisites & Environment Setup
 
-(These steps are the same as in the original guide.)
-
 ### Install Required Tools
 
 - **Python (ARM64):**  
