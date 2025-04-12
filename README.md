@@ -1,5 +1,5 @@
 # ARM64 Python Package Compile from Source Guide
-*NOTE: This guide is a work in progress and has yet to be fully tested. This note will be removed when complete*
+*IMPORTANT NOTE: This guide is a work in progress and does not work. This note will be removed when complete*
 
 ## 1. Prerequisites & Environment Setup
 
